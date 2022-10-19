@@ -31,3 +31,19 @@ pip install Flask
 ```js
 pip install pymongo
 ```
+
+### Auto reload
+
+```js
+flask --app app.py --debug run
+```
+
+### Run docker
+
+```js
+http://127.0.0.1:5000/
+```
+
+```js
+http://localhost:5000/
+```
